@@ -1,0 +1,10 @@
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\bin\Debug\Task1TVP.exe.config
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\bin\Debug\Task1TVP.exe
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\bin\Debug\Task1TVP.pdb
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.csproj.AssemblyReference.cache
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.Form1.resources
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.Properties.Resources.resources
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.csproj.GenerateResource.cache
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.csproj.CoreCompileInputs.cache
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.exe
+C:\Users\sskam\OneDrive\Рабочий стол\CLion Projects\ТВП\Task1TVP\Task1TVP\obj\Debug\Task1TVP.pdb
